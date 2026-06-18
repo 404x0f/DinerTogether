@@ -4,7 +4,7 @@
 | Автор | Ссылки |
 |------|--------|
 | **Сергей Пашковский** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@spashk-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/spashk) |
-| **Александр Скиба** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@goloteus-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/goloteus) |
+| **Александр Скиба** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/404x0f) [![Telegram](https://img.shields.io/badge/Telegram-@goloteus-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/goloteus) |
 | **Сергей Первак** | [![GitHub](https://img.shields.io/badge/GitHub-Sergey_Pervak-181717?logo=github\&logoColor=white)](https://github.com/Sergey-Pervak)|
 | **Геворк Мирзоян** | [![GitHub](https://img.shields.io/badge/GitHub-Gevork23-181717?logo=github\&logoColor=white)](https://github.com/Gevork23) |
 | **Дмитрий Тронин** | [![GitHub](https://img.shields.io/badge/GitHub-ItFromMurmansk-181717?logo=github\&logoColor=white)](https://github.com/ItFromMurmansk) |
