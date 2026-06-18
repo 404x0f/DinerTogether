@@ -1,4 +1,15 @@
 # DineTogether
+## Авторы
+
+| Автор | Ссылки |
+|------|--------|
+| **Сергей Пашковский** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@spashk-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/spashk) |
+| **Александр Скиба** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@goloteus-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/goloteus) |
+| **Сергей Первак** | [![GitHub](https://img.shields.io/badge/GitHub-Sergey_Pervak-181717?logo=github\&logoColor=white)](https://github.com/Sergey-Pervak)|
+| **Геворк Мирзоян** | [![GitHub](https://img.shields.io/badge/GitHub-Gevork23-181717?logo=github\&logoColor=white)](https://github.com/Gevork23) |
+| **Дмитрий Тронин** | [![GitHub](https://img.shields.io/badge/GitHub-ItFromMurmansk-181717?logo=github\&logoColor=white)](https://github.com/ItFromMurmansk) |
+| **Елена Глазатова** | [![GitHub](https://img.shields.io/badge/GitHub-GlaVl-181717?logo=github\&logoColor=white)](https://github.com/GlaVl) |
+| **Иван Новиков** | [![GitHub](https://img.shields.io/badge/GitHub-MrRalenbol-181717?logo=github\&logoColor=white)](https://github.com/MrRalenbol) |
 
 ## Описание
 
@@ -278,15 +289,3 @@ http://127.0.0.1:8001/redoc
 ```
 
 ---
-
-## Авторы
-
-| Автор | Ссылки |
-|------|--------|
-| **Сергей Пашковский** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@spashk-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/spashk) |
-| **Александр Скиба** | [![GitHub](https://img.shields.io/badge/GitHub-humanpride-181717?logo=github\&logoColor=white)](https://github.com/humanpride) [![Telegram](https://img.shields.io/badge/Telegram-@goloteus-2CA5E0?logo=telegram\&logoColor=white)](https://t.me/goloteus) |
-| **Сергей Первак** | [![GitHub](https://img.shields.io/badge/GitHub-Sergey_Pervak-181717?logo=github\&logoColor=white)](https://github.com/Sergey-Pervak)|
-| **Геворк Мирзоян** | [![GitHub](https://img.shields.io/badge/GitHub-Gevork23-181717?logo=github\&logoColor=white)](https://github.com/Gevork23) |
-| **Дмитрий Тронин** | [![GitHub](https://img.shields.io/badge/GitHub-ItFromMurmansk-181717?logo=github\&logoColor=white)](https://github.com/ItFromMurmansk) |
-| **Елена Глазатова** | [![GitHub](https://img.shields.io/badge/GitHub-GlaVl-181717?logo=github\&logoColor=white)](https://github.com/GlaVl) |
-| **Иван Новиков** | [![GitHub](https://img.shields.io/badge/GitHub-MrRalenbol-181717?logo=github\&logoColor=white)](https://github.com/MrRalenbol) |
