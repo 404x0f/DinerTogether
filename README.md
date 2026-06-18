@@ -205,8 +205,8 @@
 Клонируйте репозиторий:
 
 ```bash
-git clone https://github.com/Yandex-Practicum-Students/66_67_booking_seats_team_4.git
-cd 66_67_booking_seats_team_4
+git clone git@github.com:404x0f/cafe-reservation.git
+cd cafe-reservation
 ```
 
 Создайте файл окружения:
